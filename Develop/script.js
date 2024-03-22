@@ -23,8 +23,7 @@ const collectEmployees = function() {
     
     employees.push({ firstName, lastName, salary });
   }
-  
-  return employees;
+   return employees;
 };
 
 // Display the average salary 
@@ -42,8 +41,6 @@ const getRandomEmployee = function(employeesArray) {
 
   console.log(`Congratulations to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`);
 };
-
-
 
 /*
   ====================

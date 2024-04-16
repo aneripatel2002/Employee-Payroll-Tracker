@@ -13,5 +13,5 @@ I have used HTML, CSS and JavaScript to complete this challange.
 
 The following images show the web application's appearance and functionality:
 
-![alt text](<Screenshot 2024-03-19 210638.png>)
+![alt text](<./Assets/Images/Assignment 3 Console.pngScreenshot 2024-03-19 210638.png>)
 

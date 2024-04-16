@@ -15,3 +15,4 @@ The following images show the web application's appearance and functionality:
 
 ![alt text](<./Assets/Images/Assignment 3 Console.pngScreenshot 2024-03-19 210638.png>)
 
+Deployed link: https://aneripatel2002.github.io/Employee-Payroll-Tracker/
